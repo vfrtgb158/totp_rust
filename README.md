@@ -1,5 +1,5 @@
-# 使用rust实现的TOTP认证客户端，支持跨平台，纯单机版
-A TOTP authentication client implemented in rust, supporting cross-platform, pure stand-alone version
+# 使用 egui 实现的TOTP二次认证客户端，支持跨平台，纯单机版
+A TOTP two-factor authentication (2FA) client implemented in egui, supporting cross-platform, pure stand-alone version
 
 <img src="./media/img.png"  alt="screenshot" />
 
